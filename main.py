@@ -1,3 +1,5 @@
+# QuartzzDev <3
+
 import sys
 from PyQt5.QtWidgets import QApplication, QHBoxLayout, QWidget, QSplitter, QFrame
 from left import SolTaraf
