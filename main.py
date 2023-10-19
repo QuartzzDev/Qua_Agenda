@@ -11,7 +11,7 @@ class AgendaApp(QWidget):
         self.initUI()
 
     def initUI(self):
-        self.setWindowTitle('Agenda App')
+        self.setWindowTitle('Qua Agenda App')
         self.setGeometry(100, 100, 600, 400)
 
         self.sol_taraf = SolTaraf()
